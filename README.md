@@ -12,6 +12,9 @@ Ex.1		Date: 18.08.2025
 8. Calculate the total amount of money in the piggybank given the coins of Rs. 10, Rs. 5, Rs. 2 and Rs. 1
 
 
+
+
+
 Ex.2		Date: 20.08.2025
 
 1. To check whether a given number is positive,negative or zero.
@@ -21,7 +24,8 @@ Ex.2		Date: 20.08.2025
 5. Display current day of the week when the user enters a number between 1 to 7.
 
 
-========================================================================================================================
+
+
 
 H.W:    Date: 27.08.2025
 
@@ -32,7 +36,8 @@ H.W:    Date: 27.08.2025
 5.ATM Withdrawal
 
 
-==========================================================================================================================
+
+
 
 H.W:    Date: 28.08.2025
 
