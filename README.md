@@ -29,11 +29,11 @@ Ex.2		Date: 20.08.2025
 
 H.W:    Date: 27.08.2025
 
-1.Traffic Signal Controller
-2.Exhibition Ticket Pricing
-3.Grading System
-4.Electricity Bill Calculation
-5.ATM Withdrawal
+1. Traffic Signal Controller
+2. Exhibition Ticket Pricing
+3. Grading System
+4. Electricity Bill Calculation
+5. ATM Withdrawal
 
 
 
