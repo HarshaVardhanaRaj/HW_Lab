@@ -51,6 +51,3 @@ H.W:    Date: 28.08.2025
 8. Library Book Borrow Limit
 9. Number Guessing Game
 10. Shopping Cart Bill Simuator
-10. Shopping Cart Simulation
-•Keep adding item prices until user enters 0 to stop.
-•Finally show the total bill.
