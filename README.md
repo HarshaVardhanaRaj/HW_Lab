@@ -51,3 +51,20 @@ H.W:    Date: 28.08.2025
 8. Library Book Borrow Limit
 9. Number Guessing Game
 10. Shopping Cart Bill Simuator
+
+
+
+LAB    Date: 01.09.2025
+
+1. Display numbers from 1 to 10, using while loop.
+2. Verbal announcement in a university exam room
+3. Sum and average of n numbers
+4. Sum of digits in a number
+5. Reverse a number
+6. Armstrong number
+7. Factorial of a number
+8. Print multiplication table
+9. Print 1,4,9,16,25 till for n
+10. Fibonacci series
+11. palindrome
+12. prime number
