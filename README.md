@@ -42,7 +42,7 @@ H.W:    Date: 27.08.2025
 H.W:    Date: 28.08.2025
 
 1. ATM PIN Verification
-2.  Bank Withdrawal Until Balance Becomes Zero
+2. Bank Withdrawal Until Balance Becomes Zero
 3. Login System
 4. Menu-Driven Calculator
 5. Bus Ticket Booking System
@@ -54,7 +54,22 @@ H.W:    Date: 28.08.2025
 
 
 
-LAB    Date: 01.09.2025
+
+Ex.3		Date: 28.08.2025
+
+1. ATM Login with limited attempts
+2. Traffic Signal
+3. Ticket Price based on age
+4. Grading System
+5. Simple ATM Withdrawal
+6. Electricity Bill
+7. Login System till correct
+8. Menu Driven Calculator
+
+
+
+
+Ex.4    Date: 01.09.2025
 
 1. Display numbers from 1 to 10, using while loop.
 2. Verbal announcement in a university exam room
