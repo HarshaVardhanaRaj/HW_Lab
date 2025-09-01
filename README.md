@@ -81,5 +81,5 @@ Ex.4    Date: 01.09.2025
 8. Print multiplication table
 9. Print 1,4,9,16,25 till for n
 10. Fibonacci series
-11. palindrome
-12. prime number
+11. Palindrome
+12. Prime Number
