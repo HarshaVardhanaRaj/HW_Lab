@@ -83,3 +83,18 @@ Ex.4    Date: 01.09.2025
 10. Fibonacci series
 11. Palindrome
 12. Prime Number
+
+
+
+
+Ex.5    Date: 08.09.2025
+
+1. Swapping 2 Numbers
+2. Distance between 2 Points
+3. Leap Year
+4. Roots of Quadractic Equation
+5. Sum of Series
+6. Print a num, its square and cube for 1 to n
+7. Length of String or Exit
+8. Print Words with 6+ characters
+9. PG Course Eligibility
