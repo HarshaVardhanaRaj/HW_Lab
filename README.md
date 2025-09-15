@@ -98,3 +98,18 @@ Ex.5    Date: 08.09.2025
 7. Length of String or Exit
 8. Print Words with 6+ characters
 9. PG Course Eligibility
+
+
+Ex.6    Date: 15.09.2025
+
+1. Operations on a List
+2. List Manipulation
+3. Sum and Avg of a List
+4. Reverse of a List
+5. Max and Min of a List
+6. Occurence of an Element in a List
+7. Sorting a List
+8. Combining 2 Lists
+9. Removing Empty String from a List
+10. Adding a Item after a Item
+11. Replacing 20 with 200 in a List
