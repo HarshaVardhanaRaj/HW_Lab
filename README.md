@@ -123,5 +123,6 @@ Ex. 7    Date: 18.09.2025
 4. List Comprehension Example 2
 5. List Comprehension Example 3
 6. List Comprehension Example 4
+7. Alphabetical Sorting
 
-                                                                                                                            
+             lpha                                                                                                               
