@@ -113,3 +113,15 @@ Ex.6    Date: 15.09.2025
 9. Removing Empty String from a List
 10. Adding a Item after a Item
 11. Replacing 20 with 200 in a List
+
+
+Ex. 7    Date: 18.09.2025
+
+1. Aliasing Example
+2. Cloning Example
+3. List Comprehension Example 1
+4. List Comprehension Example 2
+5. List Comprehension Example 3
+6. List Comprehension Example 4
+
+                                                                                                                            
