@@ -1,0 +1,10 @@
+set2 = {555,777,999,333,444}
+print(set2)
+set2.add(6)
+set2.add(7)
+set2.add(8)
+set2.add(9)
+set2.add(5)
+set2.add(4)
+set2.add(3)
+print(set2)
