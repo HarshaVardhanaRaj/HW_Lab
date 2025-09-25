@@ -123,4 +123,30 @@ Ex. 7    Date: 18.09.2025
 4. List Comprehension Example 2
 5. List Comprehension Example 3
 6. List Comprehension Example 4
-7. Alphabetical Sorting                                                                                                      
+7. Sorting List Alphabetically
+
+
+Ex.8    Date: 19.09.2025
+
+1. List Problem 1
+2. List Problem 2
+3. List Problem 3
+4. List Problem 4
+5. List Problem 5
+
+
+Ex.9    Date: 22.09.2025
+1. Set Concept in Python
+2. Set Problem 1
+3. Set Problem 2
+4. Set Problem 3
+5. Set Problem 4
+
+Ex.10   Date: 25.09.2025
+1. English to Hindi to Tamil
+2. Employee of a Project
+3. State Code Dictionary
+4. Cubes of Odd Nums from 1 to 10
+5. Meters to Centimeters and vice verse
+6. Topper and Top Marks Dictionary
+7. Radius and Circumference Dictionary
