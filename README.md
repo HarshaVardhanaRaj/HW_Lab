@@ -150,3 +150,18 @@ Ex.10   Date: 25.09.2025
 5. Meters to Centimeters and vice verse
 6. Topper and Top Marks Dictionary
 7. Radius and Circumference Dictionary
+
+
+Ex.11  Date: 06.10.2025
+1. Odd or Even
+2. Volume of Cuboid
+3. Average of arguements
+4. Largest of 3 nums
+5. Square of a num
+6. Average of n arguements user input
+7. Reverse Function of a String
+8. Calculator
+9. Largest and Smallest of n numbers
+10. Factorial of a num using Recursion
+11. Decimal to Binary
+12. Binary to Decimal
