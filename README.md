@@ -165,3 +165,12 @@ Ex.11  Date: 06.10.2025
 10. Factorial of a num using Recursion
 11. Decimal to Binary
 12. Binary to Decimal
+
+
+Ex.12  Date: 23.10.2025
+1. User PAN details retrieval
+2. Check if char in present in String
+3. Palindrome without built-in function
+4. String operations using functions
+5. Longest word out of a list of words
+
