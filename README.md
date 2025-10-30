@@ -170,7 +170,16 @@ Ex.11  Date: 06.10.2025
 Ex.12  Date: 23.10.2025
 1. User PAN details retrieval
 2. Check if char in present in String
-3. Palindrome without built-in function
-4. String operations using functions
-5. Longest word out of a list of words
+4. Palindrome without built-in function
+5. String operations using functions
+6. Longest word out of a list of words
 
+
+Ex.13 Date: 30.10.2025
+1. File access modes
+2. Copying contents from 1 file to another
+3. Count no. of chars in a file
+4. Count vowels and consonants in a file
+5. Split lines into a series of words
+6. Merge 2 files into a 3rd file with alternating lines
+7. Find the last occurence of a word in a file
