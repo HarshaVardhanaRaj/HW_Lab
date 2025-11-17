@@ -183,3 +183,8 @@ Ex.13 Date: 30.10.2025
 5. Split lines into a series of words
 6. Merge 2 files into a 3rd file with alternating lines
 7. Find the last occurence of a word in a file
+
+
+Ex.14 Date 17.11.2025
+1. Student Class
+2. BankAccount Class
